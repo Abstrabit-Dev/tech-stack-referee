@@ -186,4 +186,4 @@ This project fulfills the "Referee" challenge requirements:
 
 ---
 
-*Built with ❤️ for developers who want to make informed technology decisions*
+*Built for developers, technical managers who want to make informed technology decisions*
