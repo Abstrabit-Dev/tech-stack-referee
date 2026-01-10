@@ -39,6 +39,8 @@ Built with FastAPI backend and React frontend, powered by Kiro AI agent for inte
 ### Backend Setup
 
 ```bash
+#NOTE: Windows user should prefer to use WSL to run the backend, as Kiro-cli is not directly supported in Windows.
+
 cd backend
 
 # Create virtual environment
